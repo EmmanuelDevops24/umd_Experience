@@ -1,3 +1,0 @@
-Smith,Claudia,Ivette
-Same #1: true
-Same #2: false

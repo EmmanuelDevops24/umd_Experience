@@ -1,2 +1,0 @@
-Smith,Claudia,Ivette
-Smith&Claudia&Ivette

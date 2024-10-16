@@ -1,5 +1,0 @@
-Rodriguez,Albert,John
-Compare #1: true
-Compare #2: true
-Compare #3: true
-Compare #4: true
