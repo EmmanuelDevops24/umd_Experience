@@ -4,9 +4,11 @@ This url contains the instructions to creating this Passport project
 "https://eliasgonzalez.me/passport/programs/Passport.html"
 
 Brief discription of important files in this repo
+
 Driver.java
 The Driver file contains the main method and this is the expected output from the driver class 
 {
+
 Smith,Claudia,I.
 Roberts,John
 Samplelastname,Samplefirstname,Samplemiddlename
